@@ -1,5 +1,5 @@
 :root{
-	--img-bg: url("https://user-images.githubusercontent.com/50357969/136494899-154d7e19-1de9-4653-b96a-9495524864b3.jpg")
+	--img-bg: url('/assets/images/bg-depan.jpg')
 }
 body {
     font-family: 'Exo', sans-serif;
